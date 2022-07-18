@@ -1,0 +1,13 @@
+.custom-table, .custom-td {
+    border:2px solid gray;
+    border-width: 1px !important;
+    width: 351px;
+    height: 125px;
+  }
+.st{
+    width: 350px;
+    height: 70px;
+    background-color: #333;
+    color: white;
+    border: none;
+}
