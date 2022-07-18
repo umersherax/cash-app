@@ -10,7 +10,6 @@ export default function Home() {
   const redirect = useNavigate();
 
   const [show, setShow] = useState(false);
-
   const handleClose = () => setShow(false);
 
   const handleModal = () => {
